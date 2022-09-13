@@ -1,0 +1,59 @@
+Unix Script
+
+
+mkdir - Create new directory with given name
+cd - Change to directory
+touch - Create empty files
+cat>filename - Create new file and writes the content and ctrl+D to save the content into file
+cat file1 file2>file3 - Creates new file and content of both files will be copied to new file
+cat - Display content of file
+ls - List the content of directory
+lsof - List of open file 
+id - Print the id's
+id-u - User id
+id-g - Group id
+ig-G- Sub grop id
+clear - Clear the screen
+pwd- Current working directory
+mv - Move the file
+rm - Remove the file
+su - Switch user
+sudo bash - Switch the root user
+sudo userpasswd - Update the password
+sudo userdel - Delete the user
+sudo touch - Create the file
+echo - Print the messege
+whoami - Current user
+sed - Replace the word
+uniq - List the uiq value 
+history - Show the history
+ifconfig - Show the interface
+ip address - Show the ip address
+awk '{print}' - Show and open the file
+grep - Check the word inside the file
+sort - Sort the word  
+sort n - Sort the word numerical order
+chmod - Change the  file permission
+id - Display id of user/group
+vi - Text editor to write programs of text
+history - Review all the commands which you have entered
+hostname - Display hostname
+hostname-i - Display host ip
+chmod - Change the user/group permissions to access file
+
+
+Git commands
+
+
+git push - Push the file to remote
+git pull - Change remote server to local repository
+git checkout - change one to another branch
+git init - Start new repository
+git config - Configer the user
+git glone - glone the repository
+git commit - Record and snapshot the file
+git add - Add files
+git merge - Merge the specific branch
+git rm - Remove the file
+git checkout - Merge the specific branch
+git remote - Connect local repository to remote
