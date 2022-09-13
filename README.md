@@ -1,2 +1,2 @@
 # Unix-Linux-command
-Unix Script
+All Unix Commands and Git Commands is listed in Unix Script file.
